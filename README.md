@@ -20,3 +20,4 @@ npm run cypress:open
 # To run all tests
 npm run test
 ```
+test
